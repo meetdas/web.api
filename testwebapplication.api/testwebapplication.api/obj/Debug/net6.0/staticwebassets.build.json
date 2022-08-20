@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xAUnPb7vxp2ZJLOueD0/FHp1guL8dxIR+lMuMIqyhGU=",
+  "Source": "testwebapplication.api",
+  "BasePath": "_content/testwebapplication.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
